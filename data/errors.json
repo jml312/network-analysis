@@ -1,0 +1,362 @@
+[
+    {
+        "site": "163.com",
+        "error": "ping"
+    },
+    {
+        "site": "microsoft.com",
+        "error": "ping"
+    },
+    {
+        "site": "xvideos.com",
+        "error": "ping"
+    },
+    {
+        "site": "naver.com",
+        "error": "ping"
+    },
+    {
+        "site": "microsoftonline.com",
+        "error": "dig"
+    },
+    {
+        "site": "ebay.com",
+        "error": "ping"
+    },
+    {
+        "site": "netflix.com",
+        "error": "ping"
+    },
+    {
+        "site": "quora.com",
+        "error": "ping"
+    },
+    {
+        "site": "msn.com",
+        "error": "ping"
+    },
+    {
+        "site": "telegram.org",
+        "error": "ping"
+    },
+    {
+        "site": "xnxx.com",
+        "error": "ping"
+    },
+    {
+        "site": "duckduckgo.com",
+        "error": "ping"
+    },
+    {
+        "site": "twimg.com",
+        "error": "dig"
+    },
+    {
+        "site": "nih.gov",
+        "error": "ping"
+    },
+    {
+        "site": "t.me",
+        "error": "ping"
+    },
+    {
+        "site": "booking.com",
+        "error": "ping"
+    },
+    {
+        "site": "walmart.com",
+        "error": "ping"
+    },
+    {
+        "site": "avito.ru",
+        "error": "ping"
+    },
+    {
+        "site": "atlassian.net",
+        "error": "ping"
+    },
+    {
+        "site": "onlyfans.com",
+        "error": "ping"
+    },
+    {
+        "site": "grammarly.com",
+        "error": "ping"
+    },
+    {
+        "site": "wetransfer.com",
+        "error": "ping"
+    },
+    {
+        "site": "chase.com",
+        "error": "ping"
+    },
+    {
+        "site": "okta.com",
+        "error": "ping"
+    },
+    {
+        "site": "trello.com",
+        "error": "ping"
+    },
+    {
+        "site": "realsrv.com",
+        "error": "dig"
+    },
+    {
+        "site": "slack.com",
+        "error": "ping"
+    },
+    {
+        "site": "office365.com",
+        "error": "ping"
+    },
+    {
+        "site": "stripe.com",
+        "error": "ping"
+    },
+    {
+        "site": "ups.com",
+        "error": "ping"
+    },
+    {
+        "site": "cloudfront.net",
+        "error": "dig"
+    },
+    {
+        "site": "tistory.com",
+        "error": "ping"
+    },
+    {
+        "site": "zendesk.com",
+        "error": "ping"
+    },
+    {
+        "site": "dcinside.com",
+        "error": "ping"
+    },
+    {
+        "site": "binance.com",
+        "error": "ping"
+    },
+    {
+        "site": "daum.net",
+        "error": "ping"
+    },
+    {
+        "site": "bankofamerica.com",
+        "error": "ping"
+    },
+    {
+        "site": "onlinesbi.sbi",
+        "error": "ping"
+    },
+    {
+        "site": "mozilla.org",
+        "error": "ping"
+    },
+    {
+        "site": "samsung.com",
+        "error": "ping"
+    },
+    {
+        "site": "miguvideo.com",
+        "error": "ping"
+    },
+    {
+        "site": "line.me",
+        "error": "ping"
+    },
+    {
+        "site": "usps.com",
+        "error": "ping"
+    },
+    {
+        "site": "zoukankan.com",
+        "error": "ping"
+    },
+    {
+        "site": "nicovideo.jp",
+        "error": "ping"
+    },
+    {
+        "site": "shein.com",
+        "error": "ping"
+    },
+    {
+        "site": "fedex.com",
+        "error": "ping"
+    },
+    {
+        "site": "wellsfargo.com",
+        "error": "ping"
+    },
+    {
+        "site": "geeksforgeeks.org",
+        "error": "ping"
+    },
+    {
+        "site": "springer.com",
+        "error": "ping"
+    },
+    {
+        "site": "hp.com",
+        "error": "ping"
+    },
+    {
+        "site": "livedoor.jp",
+        "error": "dig"
+    },
+    {
+        "site": "shaparak.ir",
+        "error": "ping"
+    },
+    {
+        "site": "bendibao.com",
+        "error": "ping"
+    },
+    {
+        "site": "icicibank.com",
+        "error": "ping"
+    },
+    {
+        "site": "epicgames.com",
+        "error": "ping"
+    },
+    {
+        "site": "eastday.com",
+        "error": "ping"
+    },
+    {
+        "site": "wiley.com",
+        "error": "ping"
+    },
+    {
+        "site": "kakao.com",
+        "error": "ping"
+    },
+    {
+        "site": "xxxxx520.com",
+        "error": "ping"
+    },
+    {
+        "site": "capitalone.com",
+        "error": "ping"
+    },
+    {
+        "site": "irctc.co.in",
+        "error": "ping"
+    },
+    {
+        "site": "oracle.com",
+        "error": "ping"
+    },
+    {
+        "site": "espncricinfo.com",
+        "error": "ping"
+    },
+    {
+        "site": "178.com",
+        "error": "dig"
+    },
+    {
+        "site": "guancha.cn",
+        "error": "ping"
+    },
+    {
+        "site": "rakuten.com",
+        "error": "ping"
+    },
+    {
+        "site": "porntrex.com",
+        "error": "ping"
+    },
+    {
+        "site": "lanzoug.com",
+        "error": "dig"
+    },
+    {
+        "site": "news.cn",
+        "error": "ping"
+    },
+    {
+        "site": "cnbc.com",
+        "error": "ping"
+    },
+    {
+        "site": "schoology.com",
+        "error": "ping"
+    },
+    {
+        "site": "trustpilot.com",
+        "error": "ping"
+    },
+    {
+        "site": "nvidia.com",
+        "error": "ping"
+    },
+    {
+        "site": "blog.jp",
+        "error": "ping"
+    },
+    {
+        "site": "qualtrics.com",
+        "error": "ping"
+    },
+    {
+        "site": "acfun.cn",
+        "error": "ping"
+    },
+    {
+        "site": "game8.jp",
+        "error": "ping"
+    },
+    {
+        "site": "nyaa.si",
+        "error": "ping"
+    },
+    {
+        "site": "gmw.cn",
+        "error": "ping"
+    },
+    {
+        "site": "skype.com",
+        "error": "ping"
+    },
+    {
+        "site": "hdslb.com",
+        "error": "dig"
+    },
+    {
+        "site": "dlsite.com",
+        "error": "ping"
+    },
+    {
+        "site": "disneyplus.com",
+        "error": "ping"
+    },
+    {
+        "site": "nature.com",
+        "error": "ping"
+    },
+    {
+        "site": "powerbi.com",
+        "error": "ping"
+    },
+    {
+        "site": "turkiye.gov.tr",
+        "error": "ping"
+    },
+    {
+        "site": "ca.gov",
+        "error": "ping"
+    },
+    {
+        "site": "rt.com",
+        "error": "ping"
+    },
+    {
+        "site": "tokopedia.com",
+        "error": "ping"
+    }
+]
